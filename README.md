@@ -5,7 +5,34 @@ _Last update: 2024-10-01_
 
 A (non-exhaustive) list of references relevant to the project.
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Cheng S. et al (2020)</strong> - Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion.. <i>(Click to read more)</i>.</summary>
 
+* 
+* Oceans, 2020, 1 (4), pp.326 - 342..
+* [https://doi.org/oceans1040022](https://doi.org/10.3390/oceans1040022)
+
+```
+Sukun Cheng, Ali Aydoğdu, Pierre Rampal, Alberto Carrassi, Laurent Bertino. 
+Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion. Oceans, 2020, 1 (4), pp.326 - 342
+```
+
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Korosov A. et al (2023)</strong> - Towards improving short-term sea ice predictability using deformation observations. <i>(Click to read more)</i>.</summary>
+
+* 
+* The Cryosphere, 17, 4223–4240.
+* [https://doi.org/tc-17-4223-2023](https://doi.org/10.5194/tc-17-4223-2023)
+
+```
+Korosov, A., Rampal, P., Ying, Y., Ólason, E., and Williams, T. Towards improving short-term sea ice predictability using deformation observations, The Cryosphere, 17, 4223–424, 2023.
+```
+
+</details>
 
 <!-- -------------- Paper ------------------ -->
 <details>
