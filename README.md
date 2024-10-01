@@ -3,8 +3,9 @@ In this repo we can share some paper references that are relevant to the project
 
 _[Last update: 2024-10-01]_
 
-### A (non-exhaustive) list of references relevant to the project.
+## A (non-exhaustive) list of references relevant to the project.
 
+### Forecast & Metrics
 <!-- -------------- Paper ------------------ -->
 <details>
 <summary><strong> Cheng S. et al (2020)</strong> - Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion.. <i>(Click to read more)</i>.</summary>
@@ -150,5 +151,48 @@ Zampieri, L., Goessling, H. F., & Jung, T. (2019). Predictability of Antarctic S
 ```
 </details>
 
+### BBM rheology
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Ólason et al (2022)</strong> - A new brittle rheology and numerical framework for large-scale sea-ice models. <i>(Click to read more)</i>.</summary>
+
+* 
+* Journal of Advances in Modeling Earth Systems, 14, e2021MS002685.
+* [https://doi.org/10.1029/2021MS002685](https://doi.org/10.1029/2021MS002685)
+
+```
+Ólason, E., Boutin, G., Korosov, A., Rampal, P., Williams, T., Kimmritz, M., et al. (2022). A new brittle rheology and numerical framework for large-scale sea-ice models. Journal of Advances in Modeling Earth Systems, 14, e2021MS002685.
+```
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Rampal et al (2019)</strong> - On the multi-fractal scaling properties of sea ice deformation. <i>(Click to read more)</i>.</summary>
+
+* 
+* The Cryosphere, 13, 2457–2474.
+* [https://doi.org/10.5194/tc-13-2457-2019](https://doi.org/10.5194/tc-13-2457-2019)
+
+```
+Rampal, P., Dansereau, V., Olason, E., Bouillon, S., Williams, T., Korosov, A., and Samaké, A. (2019). On the multi-fractal scaling properties of sea ice deformation. The Cryosphere, 13, 2457–2474. 
+```
+  
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Rampal et al (2016)</strong> - neXtSIM: a new Lagrangian sea ice model. <i>(Click to read more)</i>.</summary>
+
+* 
+* The Cryosphere, 10, 1055–1073.
+* [https://doi.org/10.5194/tc-10-1055-2016](https://doi.org/10.5194/tc-10-1055-2016)
+
+```
+Rampal, P., Bouillon, S., Ólason, E., and Morlighem, M. (2016). neXtSIM: a new Lagrangian sea ice model. The Cryosphere, 10, 1055–1073. 
+```
+</details>
+
+### ABL
+[[- Stephanie's notes here.]](https://github.com/stephanieleroux/SEA-ICE-notes/blob/main/biblio-ABL-interaction.md)
 
 
