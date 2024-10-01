@@ -7,6 +7,18 @@ A (non-exhaustive) list of references relevant to the project.
 
 
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Hoffman et al (2023)</strong>- Machine Learning for Daily Forecasts of Arctic Sea Ice Motion: An Attribution Assessment of Model Predictive Skill. <i>(Click to read more)</i>.</summary>
+
+* 
+* Artif. Intell. Earth Syst., 2, 230004.
+*  [https://doi.org/10.1175/AIES-D-23-0004.1](https://doi.org/10.1175/AIES-D-23-0004.1)
+```
+ Hoffman, L., M. R. Mazloff, S. T. Gille, D. Giglio, C. M. Bitz, P. Heimbach, and K. Matsuyoshi, 2023: Machine Learning for Daily Forecasts of Arctic Sea Ice Motion: An Attribution Assessment of Model Predictive Skill. Artif. Intell. Earth Syst., 2, 230004, https://doi.org/10.1175/AIES-D-23-0004.1.
+```
+</details>
+
 
 
 <!-- -------------- Paper ------------------ -->
