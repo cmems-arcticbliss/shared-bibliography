@@ -206,7 +206,7 @@ Rampal, P., Bouillon, S., Ólason, E., and Morlighem, M. (2016). neXtSIM: a new 
 ```
 </details>
 
-### ABL
+### ABL-sea-ice interactions
 - Stephanie's notes [[here.]](https://github.com/stephanieleroux/SEA-ICE-notes/blob/main/biblio-ABL-interaction.md)
 
 
