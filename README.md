@@ -1,9 +1,9 @@
 # Bibliography
-In this repo we can share some paper references that are relevant to the project
+In this repo we can share some paper references that are relevant to the project.
 
-_Last update: 2024-10-01_
+_[Last update: 2024-10-01]_
 
-A (non-exhaustive) list of references relevant to the project.
+### A (non-exhaustive) list of references relevant to the project.
 
 <!-- -------------- Paper ------------------ -->
 <details>
@@ -71,6 +71,20 @@ Rabatel, M., Rampal, P., Carrassi, A., Bertino, L., and Jones, C. K. R. T.: Impa
 ```
 Schweiger, A. J., and J. Zhang (2015), Accuracy of short-term sea ice drift forecasts using a coupled ice-ocean model, *J. Geophys. Res. Oceans*, 120, 7827–7841, doi: 10.1002/2015JC011273
 ```
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Tietsche et al (2020)</strong> - EU H2020 KEPLER Deliverable Report D4.3 on Recommendations for more user-relevant sea-ice forecasts. <i>(Click to read more)</i>.</summary>
+
+* 
+* EU report.
+* [https://doi.org/ftzenodo:oai:zenodo.org:5761695&ved=2ahUKEwiP5Ni4oe2IAxU5VfEDHa2JHdQQFnoECBoQAQ&usg=AOvVaw3weQi32ghpojnBM6ynDbZb](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openpolar.no/Record/ftzenodo:oai:zenodo.org:5761695&ved=2ahUKEwiP5Ni4oe2IAxU5VfEDHa2JHdQQFnoECBoQAQ&usg=AOvVaw3weQi32ghpojnBM6ynDbZb)
+
+```
+Tietsche et al 2020: EU H2020 KEPLER Deliverable Report D4.3 on Recommendations for more user-relevant sea-ice forecasts
+```
+
 </details>
 
 
