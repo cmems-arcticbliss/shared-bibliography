@@ -19,3 +19,15 @@ Zampieri, L., Goessling, H. F., & Jung, T. (2018). Bright prospects for Arctic
 sea ice prediction on subseasonal time scales. Geophysical Research Letters, 45, 9731–9738.
 ```
 </details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> de Vos et al (2022).</strong>- Evaluating numerical and free-drift forecasts of sea ice drift during a Southern Ocean research expedition: An operational perspective. <i>(Click to read more)</i>.</summary>
+
+* 
+* Journal of Operational Oceanography, 15:3, 187-203.
+*  [https://doi.org/10.1080/1755876X.2021.1883293](https://doi.org/10.1080/1755876X.2021.1883293)
+```
+Marc de Vos, Michael Barnes, Louise C. Biddle, Sebastiaan Swart, Carla- Louise Ramjukadh & Marcello Vichi  (2022). Evaluating numerical and free-drift forecasts of sea ice drift during a Southern Ocean research expedition: An operational perspective. Geophysical Research Letters, 45, 9731–9738.
+```
+</details>
