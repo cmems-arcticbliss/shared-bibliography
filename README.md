@@ -19,6 +19,32 @@ A (non-exhaustive) list of references relevant to the project.
 ```
 </details>
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Rabatel M. et al (2018)</strong> - Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic. <i>(Click to read more)</i>.</summary>
+
+* 
+* The Cryosphere, 12, 935–953.
+* [https://doi.org/tc-12-935-2018](https://doi.org/10.5194/tc-12-935-2018)
+
+```
+Rabatel, M., Rampal, P., Carrassi, A., Bertino, L., and Jones, C. K. R. T.: Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic, The Cryosphere, 12, 935–953, https://doi.org/10.5194/tc-12-935-2018, 2018.
+```
+
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Schweiger, A. J. et al (2015)</strong> - Accuracy of short-term sea ice drift forecasts using a coupled ice-ocean model. <i>(Click to read more)</i>.</summary>
+
+* 
+* *J. Geophys. Res. Oceans*, 120, 7827–7841.
+* [https://doi.org/2015JC011273](https://doi.org/10.1002/2015JC011273)
+
+```
+Schweiger, A. J., and J. Zhang (2015), Accuracy of short-term sea ice drift forecasts using a coupled ice-ocean model, *J. Geophys. Res. Oceans*, 120, 7827–7841, doi: 10.1002/2015JC011273
+```
+</details>
 
 
 <!-- -------------- Paper ------------------ -->
@@ -46,6 +72,16 @@ Marc de Vos, Michael Barnes, Louise C. Biddle, Sebastiaan Swart, Carla- Louise R
 Xiu, Y., Luo, H., Yang, Q., Tietsche,
 S., Day, J., & Chen, D. (2022). The challenge of Arctic sea ice thickness prediction by ECMWF on subseasonal time scales. Geophysical Research Letters, 49, e2021GL097476.
 ```
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Ying Y. et al (2024)</strong> - Introducing NEDAS: a Light-weight and Scalable Python Solution for Ensemble Data Assimilation . <i>(Click to read more)</i>.</summary>
+
+* 
+* JAMES, submitted.
+* [https://doi.org/380571659_Introducing_NEDAS_a_Light-weight_and_Scalable_Python_Solution_for_Ensemble_Data_Assimilation](https://www.researchgate.net/publication/380571659_Introducing_NEDAS_a_Light-weight_and_Scalable_Python_Solution_for_Ensemble_Data_Assimilation)
+
 </details>
 
 <!-- -------------- Paper ------------------ -->
