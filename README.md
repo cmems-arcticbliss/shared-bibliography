@@ -101,6 +101,20 @@ Marc de Vos, Michael Barnes, Louise C. Biddle, Sebastiaan Swart, Carla- Louise R
 ```
 </details>
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Williams et al (2021)</strong> - Presentation and evaluation of the Arctic sea ice forecasting system neXtSIM-F. <i>(Click to read more)</i>.</summary>
+
+* 
+* The Cryosphere, 15(7), 3207–3227.
+* [https://doi.org/10.5194/tc-15-3207-2021](https://doi.org/10.5194/tc-15-3207-2021)
+
+```
+Timothy Williams, Anton Korosov, Pierre Rampal, Einar Ólason. Presentation and evaluation of
+the Arctic sea ice forecasting system neXtSIM-F. The Cryosphere, 2021, 15 (7), pp.3207 - 3227.
+10.5194/tc-15-3207-2021
+```
+</details>
 
 
 <!-- -------------- Paper ------------------ -->
