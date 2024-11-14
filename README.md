@@ -206,6 +206,19 @@ Rampal, P., Bouillon, S., Ólason, E., and Morlighem, M. (2016). neXtSIM: a new 
 ```
 </details>
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Brodeau et al (2024)</strong> - Implementation of a brittle sea ice rheology in an Eulerian, finite-difference, C-grid modeling framework: impact on the simulated deformation of sea ice in the Arctic  <i>(Click to read more)</i>.</summary>
+
+* 
+* Geosci. Model Dev., 17, 6051–6082, 2024
+* [https://doi.org/10.5194/gmd-17-6051-2024](https://doi.org/10.5194/gmd-17-6051-2024)
+
+```
+ Laurent Brodeau, Pierre Rampal, Einar Ólason, and Véronique Dansereau, Implementation of a brittle sea ice rheology in an Eulerian, finite-difference, C-grid modeling framework: impact on the simulated deformation of sea ice in the Arctic. Geosci. Model Dev., 17, 6051–6082, 2024. 
+```
+</details>
+
 ### ABL-sea-ice interactions
 - Stephanie's notes [[here.]](https://github.com/stephanieleroux/SEA-ICE-notes/blob/main/biblio-ABL-interaction.md)
 
