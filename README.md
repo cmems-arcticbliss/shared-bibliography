@@ -1,7 +1,7 @@
 # Bibliography
 In this repo we can share some paper references that are relevant to the project.
 
-_[Last update: 2024-10-01]_
+_[Last update: 2024-12-21]_
 
 ## A (non-exhaustive) list of references relevant to the project.
 
