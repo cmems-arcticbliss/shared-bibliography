@@ -37,6 +37,18 @@ Korosov, A., Rampal, P., Ying, Y., Ólason, E., and Williams, T. Towards improvi
 
 <!-- -------------- Paper ------------------ -->
 <details>
+<summary><strong> Hawkins et al (2015)</strong>- Aspects of designing and evaluating seasonal-to-interannual Arctic sea-ice prediction systems. <i>(Click to read more)</i>.</summary>
+
+* 
+* Q.J.R. Meteorol. Soc., 142: 672-683.
+*  [[https://doi.org/10.1175/AIES-D-23-0004.1](https://doi.org/10.1002/qj.2643)]([https://doi.org/10.1175/AIES-D-23-0004.1](https://doi.org/10.1002/qj.2643))
+```
+ Hawkins, E., Tietsche, S., Day, J.J., Melia, N., Haines, K. and Keeley, S. (2016), Aspects of designing and evaluating seasonal-to-interannual Arctic sea-ice prediction systems. Q.J.R. Meteorol. Soc., 142: 672-683. https://doi.org/10.1002/qj.2643
+```
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
 <summary><strong> Hoffman et al (2023)</strong>- Machine Learning for Daily Forecasts of Arctic Sea Ice Motion: An Attribution Assessment of Model Predictive Skill. <i>(Click to read more)</i>.</summary>
 
 * 
