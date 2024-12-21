@@ -47,6 +47,21 @@ Korosov, A., Rampal, P., Ying, Y., Ólason, E., and Williams, T. Towards improvi
 ```
 </details>
 
+!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> Goessling al (2016)</strong> - Predictability of the Arctic sea ice edge. <i>(Click to read more)</i>.</summary>
+
+* 
+* Geophys. Res. Lett.,43.
+* [https://doi.org/10.1002/2015GL067232](https://doi.org/10.1002/2015GL067232)
+
+```
+Goessling, H. F., S. Tietsche,J. J. Day, E. Hawkins, and T. Jung (2016), Predictability of the Arctic sea ice edge, Geophys. Res. Lett.,
+43, doi:10.1002/2015GL067232.
+```
+
+</details>
+
 <!-- -------------- Paper ------------------ -->
 <details>
 <summary><strong> Rabatel M. et al (2018)</strong> - Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic. <i>(Click to read more)</i>.</summary>
